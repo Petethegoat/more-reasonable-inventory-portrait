@@ -3,7 +3,7 @@ name = "More Reasonable Inventory Portrait"
 description = "Limit the size of the inventory portrait so unusual stats layouts are more practical."
 repository = "https://github.com/Petethegoat/more-reasonable-inventory-portrait"
 authors = [ "Pete Goodfellow",]
-version = "1.0.0"
+version = "1.1.0"
 
 [dependencies]
 assets = [ "MWSE\\mods\\More Reasonable Inventory Portrait",]
